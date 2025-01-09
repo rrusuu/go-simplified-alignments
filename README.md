@@ -1,2 +1,5 @@
 # go-simplified-alignments
-Simplified versions of reading alignment methods in genomics
+
+This project contains three simplified algorithms for reading alignment in genomics: (Simple) Greedy Alignment, Overlap-Layout-Consensus (OLC) Alignment, and De-Bruijn Alignment.
+
+*descriptions for alignments will be added later*
